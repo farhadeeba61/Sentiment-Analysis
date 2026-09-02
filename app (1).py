@@ -16,13 +16,7 @@ st.set_page_config(
     page_icon="😊",
     layout="wide"
 )
-st.markdown("""
-<style>
-.stApp {
-  background-color: #F3E8FF;
-  }
-</style>
-""", unsafe_allow_html=True)
+
 
 # ============================================================
 # BASIC TEXT CLEANING
